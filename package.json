@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "download": "^6.2.5"
+  },
+  "dependencies": {
+    "async": "^2.6.1"
   }
 }
